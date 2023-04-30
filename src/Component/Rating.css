@@ -1,0 +1,37 @@
+.rating{
+   width: 90%;
+   margin:40px auto;
+   display: flex;
+   justify-content: space-around;
+   /* border: 1px solid red; */
+   padding: 10px;
+
+}
+
+.progress_bar{
+    width: 50%;
+    /* border: 1px solid blue; */
+    padding: 10px;
+}
+
+.review{
+    width: 40%;
+}
+label{
+    width: 50px;
+    height: 50%;
+    color: gray;
+    border-radius: 50%;
+}
+
+h1{
+    color: teal;
+}
+
+.image-strong{
+    width: 30%;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
